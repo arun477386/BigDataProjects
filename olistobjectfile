@@ -20,13 +20,11 @@
         "fileName":"olist_orders_dataset.csv"
     },
     {
-        "csv_relativeurl":"BigDataProjects/refs/heads/main/olist_products_dataset.csv
-",
-        "fileName":"olist_products_dataset.csv
-"
+        "csv_relativeurl":"BigDataProjects/refs/heads/main/olist_products_dataset.csv",
+        "fileName":"olist_products_dataset.csv"
     },
     {
         "csv_relativeurl":"BigDataProjects/refs/heads/main/olist_sellers_dataset.csv",
         "fileName":"olist_sellers_dataset.csv"
-    },
+    }
 ]
